@@ -10,14 +10,14 @@
 
 ## 1. Purpose
 
-This document defines the ENS High design elements that an OCI One-OE landing zone can establish, configure, or support through Infrastructure as Code (IaC). It is intended to be published next to the OCI Landing Zone Operating Entities PCI DSS guidance after review and approval.
+This document defines the ENS High design elements that an OCI One-OE landing zone can establish, configure, or support through Infrastructure as Code (IaC).
 
 The document has four goals:
 
-1. State clearly which controls are implemented or configurable in landing-zone IaC.
-2. Separate the customer’s manual and operational responsibilities from IaC.
+1. State which controls are implemented or configurable in landing-zone IaC.
+2. Identify the customer’s manual and operational responsibilities from IaC.
 3. Identify workload, organisational, and service-contract controls that a landing zone cannot satisfy.
-4. Provide a traceable, proposed mapping to ENS measures that can be reviewed with the CCN regulator.
+4. Provide a traceable, proposed mapping to ENS measures and OCI One-OE landing-zone design elements.
 
 OCI Operating Entities Landing Zone (OCI Open LZ) is the appropriate technical baseline: it provides One-OE, Multi-OE, and Multi-Tenancy blueprints. Oracle describes the One-OE blueprint as the option for onboarding one operating entity, its environments, platforms, and projects into one tenancy. [OCI Operating Entities Landing Zone repository](https://github.com/oci-landing-zones/oci-landing-zone-operating-entities)
 
