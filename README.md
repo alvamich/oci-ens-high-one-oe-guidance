@@ -149,6 +149,16 @@ Before enabling a Security Zone, the customer must define the in-scope compartme
 5. **Apply and capture evidence.** Store approved inputs, plan/apply outputs, resource inventory, and outputs in the approved evidence location.
 6. **Verify in OCI.** Verify effective IAM policies, Cloud Guard targets/recipes, Security Zones, logs, flow logs, key configuration, scan targets, routes/NSGs, notifications, and SIEM connectivity as selected.
 7. **Run security acceptance tests.** Test denied actions, least-privilege access, public exposure, log generation/retrieval, alert routing, responder approval/rollback, and segmentation.
-8. **Operate and reassess.** Review drift, security findings, access, logging, vulnerabilities, exceptions, and changes periodically. Reassess when the system, risk profile, or ENS requirements change.
+8. **Operate and reassess.** Review drift, security findings, access, logging, vulnerabilities, exceptions, and changes periodically. Reassess when the system, risk profile, or ENS requirements change.## 8. Conclusion
+
+## 8. Conclusion
+
+The OCI One-OE Landing Zone provides a configurable Infrastructure as Code foundation for an ENS High environment. It can establish core tenancy capabilities such as compartmentalisation, identity and access controls, network segmentation, logging, security monitoring, and selected optional security services.
+
+The landing zone is the starting point, not the complete ENS implementation. Its configuration must be adapted to the scope, risk profile, and technical requirements of each customer environment and workload. Controls that require organisational processes, daily operation, application security, data protection, continuity, or user management remain the customer’s responsibility.
+
+This document provides a practical design reference for relating OCI One-OE landing-zone elements to ENS measures. Its purpose is to help teams identify what can be established through IaC, what requires configuration or operational ownership, and where additional workload-specific controls are needed.
+
+
 
 
