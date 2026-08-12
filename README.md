@@ -159,6 +159,20 @@ The landing zone is the starting point, not the complete ENS implementation. Its
 
 This document provides a practical design reference for relating OCI One-OE landing-zone elements to ENS measures. Its purpose is to help teams identify what can be established through IaC, what requires configuration or operational ownership, and where additional workload-specific controls are needed.
 
+## 9. References
+
+1. [Royal Decree 311/2022 — Esquema Nacional de Seguridad (consolidated text)](https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191)
+2. [OCI Landing Zones overview](https://docs.oracle.com/en-us/iaas/Content/cloud-adoption-framework/oci-landing-zones-overview.htm)
+3. [OCI Core Landing Zone](https://docs.oracle.com/en-us/iaas/Content/cloud-adoption-framework/oci-core-landing-zone.htm)
+4. [OCI Operating Entities Landing Zone repository](https://github.com/oci-landing-zones/oci-landing-zone-operating-entities)
+5. [OCI shared responsibility model for resiliency](https://docs.oracle.com/en-us/iaas/Content/cloud-adoption-framework/oci-shared-responsibility.htm)
+6. [OCI Cloud Guard targets](https://docs.oracle.com/en-us/iaas/Content/cloud-guard/using/targets-about.htm)
+7. [OCI Cloud Guard detector recipes](https://docs.oracle.com/en-us/iaas/Content/cloud-guard/using/detect-recipes-about.htm)
+8. [OCI Vulnerability Scanning overview](https://docs.oracle.com/en-us/iaas/Content/scanning/using/overview.htm)
+
+
+
+
 
 
 
